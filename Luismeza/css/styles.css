@@ -1,0 +1,21 @@
+#logo {
+	margin: -40px 0 -40px 0;
+}
+
+.navbar-toggle {
+	background-color: black;
+	margin-top: 15px;
+}
+
+.navbar {
+	background-color: white;
+}
+
+#navbar a {
+	color: black;
+	padding: 25px 10px 25px 10px;
+}
+
+#home {
+	padding-top: 50px;
+}
